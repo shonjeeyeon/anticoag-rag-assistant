@@ -2,6 +2,9 @@
 
 A retrieval-augmented generation (RAG) app that answers medication questions from trusted documents with citations, structured summaries, and basic safety guardrails.
 
+## Disclaimer
+Drug labeling excerpts are sourced from FDA-approved drug labels available via DailyMed (National Library of Medicine), which are public domain government works. This project is an educational prototype and not clinical decision support.
+
 ## Why this project
 Generic LLMs can hallucinate on medication questions. This project narrows the scope to a pharmacy-friendly use case and grounds answers in indexed source documents.
 
