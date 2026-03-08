@@ -1,4 +1,4 @@
-# Medication Information RAG Assistant
+# Anticoagulant Information RAG Assistant
 
 A retrieval-augmented generation (RAG) app that answers medication questions from trusted documents with citations, structured summaries, and basic safety guardrails.
 
